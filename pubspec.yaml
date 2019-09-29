@@ -15,6 +15,10 @@ version: 1.0.0+1
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 19ac291... initial commit
 
 dependencies:
   flutter:
@@ -70,3 +74,7 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+<<<<<<< HEAD
+=======
+
+>>>>>>> 19ac291... initial commit
